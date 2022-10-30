@@ -14,5 +14,9 @@ nav a {
 }
 
 nav :hover {
-  color: rgb(216, 6, 209);
+  color: rgb(222, 183, 124);
+}
+
+nav a svg {
+  margin-right: 5px;
 }
